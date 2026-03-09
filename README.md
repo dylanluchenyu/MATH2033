@@ -1,3 +1,3 @@
 As my professor said:
 
-![clarification](clarification.png)
+![clarification](images/clarification.png)
